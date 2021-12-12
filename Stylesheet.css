@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}   
+
+.navbar{
+
+    background-color:rgba(12, 12, 12, 0.863);
+
+}
+.nav-link{
+
+    color: rgba(12, 10, 10, 0.664);
+}
+.navbar-brand{
+    color: rgb(252, 252, 252)
+}
+.h1{
+    
+  text-align: center;
+}
+
+.h2{
+
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    html{
+        font-size: 50%;
+    }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+ @media only screen and (min-width: 600px) {
+    html{
+        font-size: 50%;
+    }
+
+ }
+
+/* Medium devices (landscape tablets, 768px and up) */
+ @media only screen and (min-width: 768px) {
+
+    html{
+        font-size: 60%;
+    }
+
+ }
+
+/* Large devices (laptops/desktops, 992px and up) */
+ @media only screen and (min-width: 992px) {
+
+    html{
+        font-size: 70%;
+    }
+
+ }
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+ @media only screen and (min-width: 1200px) {
+
+    html{
+        font-size: 100%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.h1{
+    
+    width: 100vw;
+    height: 50vh;
+    
+    line-height: 50vh;
+    color: white;
+    line-height: 50vh;
+
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.vAlign{
+    width: 50vw;
+    height: 50vh;
+    background-color: black;
+    text-align: center;
+    line-height: 100vh;
+}
+
+
+
+
